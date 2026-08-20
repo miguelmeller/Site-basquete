@@ -10,7 +10,7 @@ h1{
 
 h2{
     color: rgb(199, 26, 26);
-    font-weight: 400;
+    font-family: 400;
 }
 
 p{
@@ -35,6 +35,7 @@ div{
     background-color: wheat;
     width: 70%;
     margin: 20px auto; /*centraliza o elemento*/
+    border-radius: 20px;
 }
 
 a{
