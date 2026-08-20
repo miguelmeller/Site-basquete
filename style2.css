@@ -32,7 +32,7 @@ p{
 }
 
 div{
-    background-color: rgb(80, 80, 232);
+    background-color: orangered;
     width: 70%;
     margin: 20px auto; /*centraliza o elemento*/
     padding: 10px;
@@ -64,6 +64,6 @@ a{
 }
 
 #rank{
-    background-color: rgb(80, 80, 254);
+    background-color: rgb(255, 112, 60);
     border-color: white;
 }
